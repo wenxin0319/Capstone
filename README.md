@@ -35,4 +35,3 @@ Replace your_script.py with the actual Python script you intend to run.
 ## Additional Notes
 Make sure to update the paths or any configurations according to your setup.
 For further assistance or inquiries, feel free to contact [Wenxin Cheng] at [cwx0319@gmail.com].
-Enjoy exploring the observation of distribution shift on dynamic graphs!
