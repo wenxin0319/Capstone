@@ -1,0 +1,8 @@
+2016 Data(num_nodes=2604211, x=[2604211, 128], node_year=[2604211, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 49099608])
+2017 Data(num_nodes=2715233, x=[2715233, 128], node_year=[2715233, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 52993186])
+2018 Data(num_nodes=2819372, x=[2819372, 128], node_year=[2819372, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 56870792])
+torch.Size([2580965]), torch.Size([23246])
+2016 Data(num_nodes=2604211, x=[2604211, 128], node_year=[2604211, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 49099608])
+2017 Data(num_nodes=2715233, x=[2715233, 128], node_year=[2715233, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 52993186])
+2018 Data(num_nodes=2819372, x=[2819372, 128], node_year=[2819372, 1], adj_t=[2927963, 2927963, nnz=60703760], edge_index=[2, 56870792])
+torch.Size([2580965]), torch.Size([23246])
